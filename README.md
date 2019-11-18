@@ -30,6 +30,7 @@ $ yarn
 For frontend 
 
 ```sh
+$ cd frontend
 $ npm install 
 $ yarn install
 ```
